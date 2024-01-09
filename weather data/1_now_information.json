@@ -1,0 +1,31 @@
+{
+    "obs_time": 1704814200000,
+    "uptime": 1704815176,
+    "temp": -9,
+    "feels_like": -13,
+    "icon": "skc_n",
+    "condition": "clear",
+    "cloudness": 0,
+    "prec_type": 0,
+    "prec_prob": 0,
+    "prec_strength": 0,
+    "is_thunder": false,
+    "wind_speed": 2,
+    "wind_dir": "n",
+    "pressure_mm": 766,
+    "pressure_pa": 1021,
+    "humidity": 92,
+    "daytime": "n",
+    "polar": false,
+    "season": "winter",
+    "source": "station",
+    "accum_prec": {
+        "1": 9.8275385,
+        "3": 12.809929,
+        "7": 92.496315
+    },
+    "soil_moisture": 0.49,
+    "soil_temp": 1,
+    "uv_index": 0,
+    "wind_gust": 5.7
+}
